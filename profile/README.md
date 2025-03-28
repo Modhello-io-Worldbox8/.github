@@ -5,6 +5,10 @@
 ### Visión general del juego  
 Worldbox es un simulador divino donde construyes mundos desde cero. Lanzado en 2018, el juego combina creatividad y caos. Los jugadores diseñan paisajes, controlan especies míticas y deciden el destino de civilizaciones. La versión 0.22.21 incluye nuevas animaciones, skins para criaturas y una interfaz optimizada.  
 
+## ✨🎉🎉 [Descarga Gratis](https://modhello.io/worldbox.html)
+
+![image](https://github.com/user-attachments/assets/a71e1f40-945d-40b2-940f-026820afe274)
+
 ### Ventajas de la versión modificada  
 El Mod elimina restricciones. Olvídate de anuncios, compras en la app o recursos limitados. Desbloquea contenido premium como pájaros exclusivos y herramientas avanzadas. Es como tener un *"modo dios"* permanente.  
 
